@@ -25,7 +25,7 @@ The approach involved:
 
 ## 📈 Results
 
-The model successfully predicted sales for a 138-day horizon, capturing seasonal patterns and promotional impacts. Visualizations were created to compare historical and forecasted sales, providing clear insights into future trends.
+The model successfully predicted sales for a 138-day horizon, capturing seasonal patterns and promotional impacts. Visualizations were created to compare historical and forecasted sales.
 
 ## 🔧 Technologies Used
 
