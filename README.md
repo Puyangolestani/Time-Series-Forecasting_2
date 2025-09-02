@@ -21,7 +21,7 @@ The approach involved:
 - **Feature Engineering**: Creating lag features, rolling statistics, and temporal attributes.
 - **Data Preprocessing**: Handling missing values and ensuring all features were numeric.
 - **Modeling**: Implementing an iterative forecasting strategy with XGBoost.
-- **Evaluation**: Assessing model performance using appropriate metrics.
+-  **Evaluation & Visualization**: Predictions were visualized for the period **after 2017-08-15**, showing forecasted trends compared to historical data.
 
 ## 📈 Results
 
